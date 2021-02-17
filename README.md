@@ -1,6 +1,6 @@
 # vehicle Front
 
-This is the front-end for vehicle maintenance
+This is the front-end for vehicle maintenance using ReactJS. The project is deployed on Firebase.
 
 ## Requirements 
 - [NodeJS](https://nodejs.org/en/download/releases/)
